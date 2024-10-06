@@ -3,6 +3,7 @@
 ### 🌱 I’m currently learning react.js and node.js
 ### 😄 Pronouns: yuzen
 ### ⚡ Fun fact: I am noob on programming
+### I am come form Taiwan
 
 <!---
 yuzen9622/yuzen9622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
