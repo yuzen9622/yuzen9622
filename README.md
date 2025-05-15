@@ -1,7 +1,7 @@
 ### 👋 Hi,I'm Yuzen(17y)!
  Full Stack Debugger
  
-I like to write code and debug
+I like programming 
 
 
 My Teach Stack
