@@ -16,6 +16,7 @@ My Teach Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
 
 ![yuzen9622's Stats](https://github-readme-stats.vercel.app/api?username=yuzen9622&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
