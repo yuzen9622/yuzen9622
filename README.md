@@ -22,7 +22,7 @@ My Teach Stack
 
 Contact Me!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/zn._622/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat)]([https://www.facebook.com/你的帳號/](https://www.facebook.com/oscartsao.oscartsao/)) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/994875175885611018)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/zn._622/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/oscartsao.oscartsao/) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/994875175885611018)
 
 <!---
 yuzen9622/yuzen9622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
