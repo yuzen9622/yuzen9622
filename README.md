@@ -16,7 +16,7 @@ welcome to my github here have some cool thing share with you guys 🤩
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
 
 
-### FrameWork
+### Framework
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
