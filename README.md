@@ -23,13 +23,6 @@ welcome to my github here have some cool thing share with you guys 🤩
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
-### Programming
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
-
 
 ### SQL
 
