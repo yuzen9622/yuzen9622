@@ -1,4 +1,9 @@
 ### 👋 Hi,I'm Yuzen(17y)!
+A third-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.
+
+I'm passionate about web development and enjoy building applications that solve real-world problems. My current focus is on full-stack development, and I'm actively learning and working with technologies like JavaScript, React, Next.js, Node.js, Express, and MongoDB. I've also built projects using Socket and RESTful API.
+
+
  Full Stack Debugger
  
 
@@ -39,7 +44,7 @@ welcome to my github here have some cool thing share with you guys 🤩
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/zn._622/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/oscartsao.oscartsao/) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/994875175885611018)
 
 
-Thank you and Have a nice day😎
+I’m always open to connecting with other developers, learning from real-world projects, and exploring internship opportunities. Let's connect!Thank you for watching and Have a nice day😎
 <!---
 yuzen9622/yuzen9622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
