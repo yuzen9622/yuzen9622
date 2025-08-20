@@ -1,52 +1,65 @@
-### 👋 Hi,I'm Yuzen(18y)!
-A third-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hi!+I'm+Small+Z" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  🎓 A third-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.  
+</p>
 
-I'm passionate about web development and enjoy building applications that solve real-world problems. My current focus is on full-stack development, and I'm actively learning and working with technologies like JavaScript, React, Next.js, Node.js, Express, and MongoDB. I have experience using Socket.io for real-time communication, along with RESTful API development for client-server interaction.
+<p align="center">
+  💻 Passionate about web development, focusing on full-stack development with <b>React, Next.js, Node.js, Express</b> and <b>MongoDB</b>.  
+  Experienced with <b>Socket.io</b> for real-time communication & RESTful API development.  
+</p>
 
+---
 
- Full Stack Debugger
- 
+## 🚀 Tech Stack  
 
-welcome to my github here have some cool thing share with you guys 🤩
+### Programming  
+<p align="center">
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge"/></a>
+</p>  
 
+### Framework  
+<p align="center">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://expressjs.com/zh-tw/"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://nodejs.org/zh-tw/"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/></a>
+</p>  
 
-## My Teach Stack
+### Database  
+<p align="center">
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/></a>
+</p>  
 
+---
 
-### Programming
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuzen9622&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzen9622&layout=compact&theme=onedark&hide_border=true"/>
+</p>
 
+---
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)](https://cplusplus.com/)
+## 📬 Contact Me  
+<p align="center">
+  <a href="https://www.instagram.com/zn._622/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.facebook.com/oscartsao.oscartsao/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://discord.com/users/994875175885611018"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 
+---
 
-### Framework
+<p align="center">  
+✨ Always open to collaborating, learning from real-world projects, and exploring internship opportunities. ✨  
+</p>
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com/zh-tw/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/zh-tw)
-
-
-### SQL
-
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)](https://supabase.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
-
-
-![yuzen9622's Stats](https://github-readme-stats.vercel.app/api?username=yuzen9622&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-
-### Contact Me!
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/zn._622/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/oscartsao.oscartsao/) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/994875175885611018)
-
-
-
-I’m always open to connecting with other developers, learning from real-world projects, and exploring internship opportunities. Let's connect!Thank you for watching and Have a nice day😎
-<!---
-yuzen9622/yuzen9622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">  
+Thanks for visiting and have a nice day 😎  
+</p>
