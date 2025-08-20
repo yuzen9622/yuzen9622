@@ -49,7 +49,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuzen9622&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzen9622&layout=compact&theme=onedark&hide_border=true"/>
 </p>
-
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="80%"></p>
 ---
 
 ## 📬 Contact Me  
