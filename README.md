@@ -2,7 +2,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&repeat=false&width=435&lines=Hi!+I'm+Small+Z" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  🎓 A third-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.  
+  🎓 A forth-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.  
 </p>
 
 <p align="center">
