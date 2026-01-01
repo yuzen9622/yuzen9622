@@ -2,12 +2,11 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&repeat=false&width=435&lines=Hi!+I'm+Small+Z" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  🎓 A forth-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.  
+A forth-year student in the five-year program at National Taichung University of Science and Technology, majoring in Information Management.  
 </p>
 
 <p align="center">
-  💻 Passionate about web development, focusing on full-stack development with <b>React, Next.js, Node.js, Express</b> and <b>MongoDB</b>.  
-  Experienced with <b>Socket.io</b> for real-time communication & RESTful API development.  
+Built a solid foundation in programming at this school through coursework and projects, which sparked my long-term interest in software engineering and applied research.
 </p>
 
 ---
