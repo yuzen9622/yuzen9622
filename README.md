@@ -9,6 +9,15 @@ A forth-year student in the five-year program at National Taichung University of
 Built a solid foundation in programming at this school through coursework and projects, which sparked my long-term interest in software engineering and applied research.
 </p>
 
+
+---
+
+## 💡 Focus
+- System Design (event-driven, real-time architecture)
+- Authentication & Security (JWT, middleware)
+- Frontend Performance Optimization
+
+
 ---
 
 ## 🚀 Tech Stack  
@@ -21,6 +30,8 @@ Built a solid foundation in programming at this school through coursework and pr
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/></a>
   <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge"/></a>
 </p>  
+
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=2F62F7&center=true&repeat=false&width=435&lines=Framework" alt="Typing SVG" /></a>
