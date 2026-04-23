@@ -40,7 +40,7 @@ I'm most interested in problems where **system design meets user experience**: h
 
 A full-featured real-time chat application with group rooms, typing indicators, and media uploads.
 
-**Stack:** Next.js (API Routes) · TypeScript · MongoDB · Ably · NextAuth · Cloudinary
+**Stack:** Next.js (API Routes) · TypeScript · Supabase · Ably · NextAuth · Cloudinary
 
 **What I built & why it's interesting:**
 - **Real-time via Ably pub/sub** instead of rolling my own WebSocket server — lets the app scale horizontally on Vercel's serverless runtime without long-lived connections on the origin
