@@ -4,7 +4,7 @@
 
 Information Management student at **National Taichung University of Science and Technology (NTCUST)**, with a focus on building practical full-stack systems end-to-end — from authentication flows to real-time data pipelines to browser extensions.
 
-I'm most interested in problems where **system design meets user experience**: how do you keep a chat app responsive under load? How do you integrate LLMs into everyday workflows without leaking API keys? How do you build auth that's both secure and invisible?
+I build the part of the system you only notice when it's gone.
 
 ---
 
