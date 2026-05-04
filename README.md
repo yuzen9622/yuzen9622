@@ -1,6 +1,6 @@
 # Hi, I'm Yuzen 👋
 
-> Student developer exploring real-time architecture, auth, and LLM-powered tooling.
+> Student developer 
 
 Information Management student at **National Taichung University of Science and Technology (NTCUST)**, with a focus on building practical full-stack systems end-to-end — from authentication flows to real-time data pipelines to browser extensions.
 
