@@ -77,6 +77,17 @@ Not yet published to the Chrome Web Store — currently a developer-install buil
   </a>
 </p>
 
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/github-stats.svg" alt="Yuzen's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/top-langs.svg" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📬 Get in Touch
