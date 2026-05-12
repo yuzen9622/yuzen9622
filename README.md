@@ -70,9 +70,12 @@ Not yet published to the Chrome Web Store — currently a developer-install buil
 
 ## 📊 GitHub Stats
 
-[![Yuzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzen9622&show_icons=true&hide_border=true&theme=default&count_private=true)](https://github.com/yuzen9622)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzen9622&layout=compact&hide_border=true&theme=default)](https://github.com/yuzen9622)
+<p align="center">
+  <a href="https://github.com/yuzen9622">
+    <img src="./github-metrics.svg" alt="Yuzen's GitHub stats" width="100%" />
+  </a>
+</p>
 
 ---
 
