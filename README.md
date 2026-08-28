@@ -51,7 +51,6 @@ A full-featured real-time chat application with group rooms, typing indicators, 
 - **Media uploads offloaded to Cloudinary** via signed uploads, keeping large payloads out of the API layer entirely
 - **Typing indicators** implemented as ephemeral Ably presence events (not persisted) — a deliberate trade-off between UX fidelity and DB write pressure
 
-🔗 **Live demo:** https://chat-to-sage.vercel.app/introduce
 
 ---
 
