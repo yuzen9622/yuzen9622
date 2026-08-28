@@ -39,59 +39,115 @@ I build the part of the system you only notice when it's gone.
 
 ## 🚀 Featured Projects
 
-### 💬 [chat.to](https://github.com/yuzen9622/chat.to) — Real-time chat, built the way modern chat should be
+ 🌟 Featured Projects
 
-A full-featured real-time chat application with group rooms, typing indicators, and media uploads.
+ ### accessible-smart-map — Multi-modal accessible navigation & real-time
+ transit platform
 
-**Stack:** Next.js · TypeScript · Supabase · Ably · NextAuth · Cloudinary
+ A full-stack accessible navigation system for Taipei that computes
+ barrier-free routes and integrates live public transit data for
+ mobility-impaired users and wheelchair travelers.
 
-**What I built & why it's interesting:**
-- **Real-time via Ably pub/sub** instead of rolling my own WebSocket server — lets the app scale horizontally on Vercel's serverless runtime without long-lived connections on the origin
-- **Session-based auth with NextAuth**, integrated into API routes and Ably channel authorization so users can only subscribe to rooms they belong to
-- **Media uploads offloaded to Cloudinary** via signed uploads, keeping large payloads out of the API layer entirely
-- **Typing indicators** implemented as ephemeral Ably presence events (not persisted) — a deliberate trade-off between UX fidelity and DB write pressure
+ ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+ ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+ ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white&style=flat-square)
+ ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?logo=googlecloud&logoColor=white&style=flat-square)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
+ What I built & why it's interesting:
+ - Custom multi-modal routing engine integrated with OTP2 and Valhalla on
+   OpenStreetMap network graphs, actively avoiding steep slopes, stairs, and
+   unramped obstacles rather than relying on generic pedestrian paths
+ - Real-time transit integration consuming TDX Open APIs for live bus arrival
+   tracking, elevator availability, and metro accessibility alerts
+ - Decoupled client-server architecture (frontend + REST backend) containerized
+   via Docker for reproducible deployments across varying geo-routing runtimes
+ - AI voice & RAG assistance with a bidirectional voice bridge and ChromaDB
+   vector store, enabling hands-free, natural-language query resolution for
+   barrier-free point-of-interest information
+
+ ---
+
+ ### graph-patent-analysis — Automated patent knowledge graph extraction &
+ competitive intelligence
+
+ An interactive visual analytics platform that transforms raw patent Excel
+ datasets into multi-layer competitive knowledge graphs.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat-square) 
+![Graph Theory](https://img.shields.io/badge/Graph_Theory-FF4081?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat-square)
+
+ What I built & why it's interesting:
+ - Three-layer knowledge graph architecture modeling relationships across
+   Applicant → Patent → Technical Concept to uncover hidden competitor overlaps
+   and technology clusters
+ - LLM-driven concept extraction leveraging Gemini to ingest unstructured
+   patent abstracts and claims, structuring them into normalized semantic
+   keywords in seconds
+ - Client-side interactive graph exploration with dynamic node filtering,
+   community clustering, and time-series patent evolution mapping without
+   full-page remounts
+ - High-throughput data ingestion handling bulk .xlsx parsing and in-memory
+   graph construction, replacing hours of manual patent landscape analysis
+
+ ---
+
+ ### MakeNTU2026 — Deterministic divination engine meets voice-enabled
+ Agentic RAG (Hackathon)
+
+ An AI-powered strategic decision assistant combining deterministic ancient
+ algorithmic logic with modern Agentic RAG and real-time voice interaction.
+
+ ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+ ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?logo=googlecloud&logoColor=white&style=flat-square)
+ ![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?logo=openai&logoColor=white&style=flat-square)
+
+
+ What I built & why it's interesting:
+ - Deterministic state engine implementing traditional Mei Hua I Ching
+   divination without LLM hallucination — guarantees 100% reproducible Hexagram
+   states and Five-Element (Wu Xing) risk scores
+ - Agentic RAG pipeline retrieving contextual ancient commentaries and domain
+   knowledge from ChromaDB based on active hexagram dynamics and query intent
+ - Single-turn LLM synthesis constrained to strict JSON schemas, generating
+   actionable 4-part decision reports with zero latency waste
+ - Voice-first interaction integrating Whisper for transcription and
+   server-side streaming speech synthesis for an end-to-end voice assistant
+   workflow
 
 ---
 
-### 🗺️ [taipei-accessible-map](https://github.com/yuzen9622/taipei-accessible-map) — 無障礙智慧導航系統
+ ### TermExpander-ai — Chrome extension for normalizing academic terminology
 
-An accessible smart navigation system for Taipei that surfaces barrier-free routes and facilities for users with mobility needs.
+ A Manifest V3 browser extension designed for academic research and technical
+ writing that instantly standardizes acronyms and professional terminology.
 
-**Stack:** Next.js · TypeScript · Google Maps JavaScript API · shadcn/ui · Express · Node.js
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?logo=googlechrome&logoColor=white&style=flat-square) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat-square)
 
-**What I built & why it's interesting:**
-- **Barrier-free routing layer** on top of Google Maps, filtering and surfacing accessibility data that the default API doesn't expose
-- **Separated frontend and backend** ([frontend](https://github.com/yuzen9622/taipei-accessible-map) + [REST API](https://github.com/yuzen9622/taipei-accessible-backend)) with a clean RESTful contract — easier to swap map providers or add mobile clients later
-- **Designed around real constraints**: wheelchair ramps, elevator availability, accessible entrances — not just "avoid stairs" but modeling the actual decision tree a mobility-impaired user runs through
-
----
-
-### 🤖 [MakeNTU2026](https://github.com/yuzen9622/MakeNTU2026) — Agentic RAG with voice input (hackathon)
-
-A hackathon project combining agentic RAG, voice transcription, and a React frontend into a single AI-powered assistant.
-
-**Stack:** TypeScript · React · FastAPI · Whisper · Agentic RAG
-
-**What I built & why it's interesting:**
-- **Whisper-powered voice input** transcribed server-side and fed directly into the RAG pipeline — no intermediate state between speech and retrieval
-- **Agentic RAG loop** where the model can decide to re-query the retrieval layer before generating a final answer, reducing hallucination on domain-specific questions
-- **FastAPI backend** handling transcription, embedding, and generation in a single request path to keep latency manageable under demo conditions
-
----
-
-### 🔤 [TermExpander-ai](https://github.com/yuzen9622/TermExpander-ai) — Chrome extension for normalizing academic terminology
-
-Highlight any term on a webpage, click the floating button, and get a normalized academic version — expanded acronyms, standardized translations, and formal replacements for informal phrasing.
-
-**Stack:** TypeScript · Chrome Extension (Manifest V3) · OpenAI & Gemini APIs · Vite · React
-
-**What I built & why it's interesting:**
-- **Multi-provider LLM support** (GPT + Gemini) behind a small adapter layer — adding a new provider is a single file
-- **BYOK (bring-your-own-key) architecture** — API keys stored locally in the browser, never touching my servers. No backend, no billing, no data retention
-- **Floating-button UX** that appears on text selection, built to stay out of the way on dense academic pages
-- **Designed for real research workflows**: acronym expansion (e.g. *RAG → Retrieval-Augmented Generation*), cross-language term standardization, informal-to-formal rewriting
-
+ What I built & why it's interesting:
+ - In-page contextual tooltip that triggers on text selection, sending
+   highlighted snippets to the Gemini API and rendering standardized academic
+   notation ([Full Name (English, Abbr)]) directly adjacent to the cursor
+ - BYOK (Bring-Your-Own-Key) architecture storing API keys securely in
+   chrome.storage.local without intermediate backend servers, guaranteeing zero
+   user data retention and zero infrastructure cost
+ - Academic tone rewriting that transforms colloquial or informal phrasing into
+   peer-review-ready technical prose in real time
+ - Lightweight Manifest V3 implementation engineered for zero DOM layout
+   interference and minimal memory overhead on dense research papers
 ---
 
 ## 📊 GitHub Stats
