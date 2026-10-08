@@ -17,20 +17,22 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=yuzen9622&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=yuzen9622&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
 
       - name: Commit generated SVG files
         run: |
